@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\css\\bootstrap"
+		},
+		{
+			"path": "..\\css\\css"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bootstrap"
+	}
+}
